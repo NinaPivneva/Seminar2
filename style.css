@@ -1,0 +1,62 @@
+body {
+    margin: 5px;
+    background-color: darkgrey;
+}
+
+h1,
+header {
+    text-align: center;
+}
+
+header {
+    font-size: 24px;
+}
+
+.wrapper {
+    width: 800px;
+    margin: 0 auto;
+    background-color: bisque;
+}
+
+header {
+    color: blue;
+    background-color: aquamarine;
+    padding: 20px;
+}
+
+main {
+    padding: 0 20px;
+    overflow: hidden;
+}
+
+img {
+    float: left;
+    margin-right: 10px;
+    
+}
+
+.first {
+    color: green;
+}
+
+.second {
+    color: rgb(128, 0, 68);
+}
+
+.third {
+    color: green;
+}
+
+.fourth {
+    color: rgb(128, 0, 68);
+}
+
+
+.chat {
+    list-style-type: none;
+    padding-inline-start: 0;
+}
+footer {
+    padding: 0 20px;
+    overflow: hidden;
+}
