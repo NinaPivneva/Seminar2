@@ -1,6 +1,6 @@
 body {
     margin: 5px;
-    background-color: darkgrey;
+    background-color: rgb(247, 238, 238);
 }
 
 h1,
@@ -20,7 +20,7 @@ header {
 
 header {
     color: blue;
-    background-color: aquamarine;
+    background-color: rgb(117, 172, 154);
     padding: 20px;
 }
 
@@ -55,8 +55,10 @@ img {
 .chat {
     list-style-type: none;
     padding-inline-start: 0;
+    background-color: rgb(117, 172, 154);
 }
 footer {
     padding: 0 20px;
     overflow: hidden;
+    padding: 20px;
 }
